@@ -1,0 +1,6 @@
+email: bowen806@hotmail.com
+pwd: 
+text: text
+target: lnRET_30
+train_ratio: 0.8
+bert_model: bert-base-uncased

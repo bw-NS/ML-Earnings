@@ -1,0 +1,13 @@
+{
+    "email": "bowen806@hotmail.com",
+    "pwd": null,
+    "text": "text",
+    "order": "IBES_Timestamp",
+    "target": "BHAR_0_30",
+    "rolling": 3,
+    "train_ratio": 0.8,
+    "EN_param": {"tol": 1e-5, "l1_ratio": [0.1, 0.2, 0.4, 0.6, 0.8, 1]},
+    "SVM_param":{"tol": 1e-4, "C":[0.01, 0.5, 1, 1.5]},
+    "bert_model": "bert-base-uncased",
+    "parquet": "C:/Users/Steve/Projects/ML Earnings/Data/IBES_CRSP_Merged_PR_2003_2019_v02.parquet"
+}
